@@ -37,4 +37,4 @@ The trained model is saved as `model.pickle` in the project directory. The saved
 
 ## Credits
 
-This project was created by [Tommaso Martinelli](https://github.com/tommasomartinelli) and [Paolo Speziali](https://github.com/plspeziali) as part of [Body Performance Predictor Docker Application](https://github.com/plspeziali/VNCCProject). The physical performance dataset was sourced from [[Source of data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)]. The XGBoost algorithm was implemented using the [XGBoost library](https://xgboost.readthedocs.io/en/latest/).
+This project was created by [Tommaso Martinelli](https://github.com/tommasomartinelli) and [Paolo Speziali](https://github.com/plspeziali) as part of [Body Performance Predictor Docker Application](https://github.com/plspeziali/VNCCProject). The physical performance dataset was sourced from [Kaggle's Body Performance data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data). The XGBoost algorithm was implemented using the [XGBoost library](https://xgboost.readthedocs.io/en/latest/).
