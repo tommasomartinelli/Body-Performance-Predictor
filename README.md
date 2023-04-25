@@ -31,9 +31,9 @@ The data used in this project is stored in the `data` directory. The dataset con
 
 ## Model
 
-The XGBoost algorithm was used to train a classification model to classify the physical performance of individuals. The trained model achieved an accuracy of XX% on the test set.
+The XGBoost algorithm was used to train a classification model to classify the physical performance of individuals. The trained model achieved an accuracy of 75% on the test set.
 
-The trained model is saved as `model.pickle` in the project directory. The saved model can be used to make predictions on new data.
+The trained model is saved as `model.pickle` in the project directory. The saved model can be used to make predictions on new data using also 'scaler.pickle'.
 
 ## Credits
 
