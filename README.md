@@ -4,7 +4,7 @@ Exploratory Data Analysis and Classification Model Training using XGBoost
 
 ## Overview
 
-This project is aimed at analyzing and exploring the physical performance data and training a classification model using XGBoost algorithm to classify the physical performance of individuals. The trained model is then used in the project (https://github.com/plspeziali/VNCCProject).
+This project is aimed at analyzing and exploring the physical performance data and training a classification model using XGBoost algorithm to classify the physical performance of individuals. The trained model is then used in the project [Body Performance Predictor Docker Application](https://github.com/plspeziali/VNCCProject).
 
 The project includes a Jupyter notebook that contains the code for data analysis, preprocessing, feature engineering, model training and evaluation using XGBoost.
 
@@ -37,4 +37,4 @@ The trained model is saved as `model.pickle` in the project directory. The saved
 
 ## Credits
 
-This project was created by [Tommaso Martinelli](https://github.com/tommasomartinelli) and [Paolo Speziali](https://github.com/plspeziali) as part of [https://github.com/plspeziali/VNCCProject]. The physical performance dataset was sourced from [Source of data]. The XGBoost algorithm was implemented using the [XGBoost library](https://xgboost.readthedocs.io/en/latest/).
+This project was created by [Tommaso Martinelli](https://github.com/tommasomartinelli) and [Paolo Speziali](https://github.com/plspeziali) as part of [Body Performance Predictor Docker Application](https://github.com/plspeziali/VNCCProject). The physical performance dataset was sourced from [[Source of data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)]. The XGBoost algorithm was implemented using the [XGBoost library](https://xgboost.readthedocs.io/en/latest/).
